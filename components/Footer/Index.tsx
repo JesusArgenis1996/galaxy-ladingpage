@@ -30,7 +30,7 @@ const Footer = () => {
 
                 <div className={styles.right}>
                     <h4 className={styles.footerH4}>About the company</h4>
-                    <p className={styles.footerP}>"Desarrollo de software a tu medida"</p>
+                    <p className={styles.footerP}>Desarrollo de software a tu medida</p>
                     <div className={styles.social}>
                         <h4><FaFacebook size={30} style={{color: '#fffff', marginRight: '1rem'}}/></h4>
                         <h4><FaTwitter size={30} style={{color: '#fffff', marginRight: '1rem'}}/></h4>
